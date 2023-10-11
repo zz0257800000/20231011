@@ -1,3 +1,4 @@
-import{a,text}from "./main.js";
-console.log(a)
-console.log(text)
+import {obj}from"./main.js";
+console.log(obj)
+import b from"./main.js";
+console.log(b)
